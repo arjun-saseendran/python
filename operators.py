@@ -62,32 +62,3 @@ print('The answer is: ',mem)
 ntm = text not in 'python'
 print('The answer is: ',ntm)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
