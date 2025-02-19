@@ -1,5 +1,5 @@
 
-# Add 
+# Add
 num1 = 10
 num2 = 5
 sum = num1 + num2
@@ -62,3 +62,19 @@ print('The answer is: ',mem)
 ntm = text not in 'python'
 print('The answer is: ',ntm)
 
+# String multiplication
+print('hello world\n' * 5)
+
+# Floor
+num = -5
+num1 = 1
+ans = num//num1
+
+print('The answer is:',ans)
+
+print(num > num1)
+print(num < num1)
+print(num >= num1)
+print(num <= num1)
+print(num == num1)
+print(num != num1)
