@@ -78,3 +78,8 @@ print(num >= num1)
 print(num <= num1)
 print(num == num1)
 print(num != num1)
+
+num += num1
+print(num)
+num *= num1
+print(num)
