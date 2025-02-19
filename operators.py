@@ -94,3 +94,11 @@ print('The memory location of the num3 is:',id(num3))
 print('The memory location of the num4 is:',id(num4))
 print(num2 is num3)
 print(0 or 1)
+
+num6 = int(input('Enter a number:'))
+if(num6 > 0):
+    print('The number',num6,'is posivtive')
+elif(num6 < 0):
+    print('The number',num6,'is neagative')
+else:
+    print('The input is invalid!')
