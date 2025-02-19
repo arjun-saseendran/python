@@ -18,3 +18,8 @@ i = 0
 while i < 5:
     print(i)
     i = i + 1
+
+    if num1 < num2:
+        print('Number one is greater than Number two')
+    else:
+        print('Number two is greater than Number one')
