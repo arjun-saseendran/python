@@ -84,3 +84,4 @@ print(num)
 num *= num1
 print(num)
 print(num < num1 or num <= num1)
+print(num != num1)
