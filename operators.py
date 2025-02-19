@@ -1,4 +1,5 @@
 
+from ints_and_floats import num5
 # Add
 num1 = 10
 num2 = 5
@@ -85,3 +86,10 @@ num *= num1
 print(num)
 print(num < num1 or num <= num1)
 print(num != num1)
+num3 = 5
+num4 = 5
+num5 = num4
+print('The memory location of the num5 is:',id(num5))
+print('The memory location of the num3 is:',id(num3))
+print('The memory location of the num4 is:',id(num4))
+print(num2 is num3)
